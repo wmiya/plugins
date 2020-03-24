@@ -1,5 +1,5 @@
 {
-  "name": "vue-toast",
+  "name": "vue-toast-app",
   "version": "1.0.0",
   "description": "a toash plugin for mobile",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "fibers": "^4.0.2",
     "sass": "^1.26.3",
     "style-loader": "^1.1.3",
+    "user": "0.0.0",
     "vue": "^2.6.11",
     "vue-loader": "^15.9.1",
     "vue-template-compiler": "^2.6.11"
