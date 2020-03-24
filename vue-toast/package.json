@@ -1,6 +1,6 @@
 {
   "name": "vue-toast-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a toash plugin for mobile",
   "main": "index.js",
   "scripts": {
